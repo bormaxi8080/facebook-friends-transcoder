@@ -1,8 +1,6 @@
-# facebook-friends-decoder
- 
-## Facebook contact list transcoder
+# Facebook contact list transcoder
 
-### Problem: 
+## Problem Description
 
 in Facebook backup files, the data is written in an “unreadable format” in Unicode encoding. 
 
@@ -10,7 +8,7 @@ in Facebook backup files, the data is written in an “unreadable format” in U
 
 This utility helps you quickly read data from downloaded files.
 
-### Usage:
+## Usage
 
 Put the backup files to **data** folder
 
@@ -20,6 +18,10 @@ Run:
 
 File examples placed in **examples** folder.
 
-### Result:
+## Result
 
 ![alt text](results.png)
+
+## Donates
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bormaxi8080)
